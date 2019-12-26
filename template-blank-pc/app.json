@@ -1,0 +1,19 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "projectId": 0,
+  "id": "",
+  "name": "",
+  "framework": "",
+  "platform": "",
+  "description": "",
+  "git": {
+    "url": "",
+    "isPrivate": false,
+    "username": "",
+    "password": ""
+  },
+  "alias": [],
+  "pages": [],
+  "dependencies": []
+}
